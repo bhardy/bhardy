@@ -1,6 +1,6 @@
 # Hey, I'm Brant 🦕
 
-I'm a Frontend Software Developer at [Dapper Labs](https://www.dapperlabs.com/). I live in Vancouver, BC. I like the internet, jokes, and sports. I take on freelance work if it's cool. [Email me](mailto:brant@branthardy.com) for inquiries.
+I'm a Frontend Software Developer at [Dapper Labs](https://www.dapperlabs.com/). I live in Vancouver, BC. I like the internet, jokes, and sports.
 
 🌤️ 🌨️ ☁️ 🐝 🗻 ❄️ ❄️ ⛈️ 🦅 🌩️\
 ☁️ 🦋 🌈 ⛰️ ⛰️ 🚠 ⛰️ 🌨️ 🌨️ 🌩️\
